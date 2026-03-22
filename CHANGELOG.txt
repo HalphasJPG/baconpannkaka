@@ -4,7 +4,9 @@
 ### Fixed
 - Justerade saltmängden från 0.5 tsk till 0.25 tsk då baconet bidrar med sälta.
 ### Motivering
-PATCH-höjning eftersom det var en rättning av ett befintligt recept.
+PATCH-höjning eftersom det var en rättning av ett befintligt recept
+
+- Fixed: Tog bort skräptecken (<) i ugninstruktionen..
 
 ## [1.1.0] - 2026-03-22
 ### Added

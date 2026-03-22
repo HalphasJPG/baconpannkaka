@@ -1,0 +1,25 @@
+From a8f4849c0a988afffc2195d5eaf13eb8138e5732 Mon Sep 17 00:00:00 2001
+From: amadeus <amasve010415@student.jenseneducation.se>
+Date: Sun, 22 Mar 2026 22:55:43 +0100
+Subject: [PATCH] fix: ta bort felaktigt tecken i ugninstruktionen
+
+---
+ recept.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/recept.md b/recept.md
+index 7061bd4..8e7c50d 100644
+--- a/recept.md
++++ b/recept.md
+@@ -5,7 +5,7 @@
+ - 0.25 tsk salt
+ - 1 pkt tärnad bacon (140g)
+ 1. Stek baconet gyllenbrunt och knaprigt i pannan innan smeten hälls på.
+-2. Grädda mitt i ugnen på 225 grader i ca 20-25 minuter.<
++2. Grädda mitt i ugnen på 225 grader i ca 20-25 minuter.
+ 
+ - 1 tärnat äpple
+ - 0.5 tsk kanel
+-- 
+2.43.0
+
