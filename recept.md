@@ -2,5 +2,5 @@
 - 3 ägg
 - 6 dl mjölk
 - 3 dl vetemjöl
-- 0.5 tsk salt
+- 0.25 tsk salt
 - 1 pkt tärnad bacon (140g)
