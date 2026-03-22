@@ -4,5 +4,5 @@
 - 3 dl vetemjöl
 - 0.25 tsk salt
 - 1 pkt tärnad bacon (140g)
-1. Stek baconet knaprigt i pannan innan smeten hälls på.
+1. Stek baconet gyllenbrunt och knaprigt i pannan innan smeten hälls på.
 2. Grädda mitt i ugnen på 225 grader i ca 20-25 minuter.
