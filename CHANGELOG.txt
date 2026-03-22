@@ -1,0 +1,21 @@
+# CHANGELOG - Baconpannkaka
+
+## [1.1.1] - 2026-03-22
+### Fixed
+- Justerade saltmängden från 0.5 tsk till 0.25 tsk då baconet bidrar med sälta.
+### Motivering
+PATCH-höjning eftersom det var en rättning av ett befintligt recept.
+
+## [1.1.0] - 2026-03-22
+### Added
+- Smör i smeten för bättre yta.
+- Instruktion för att förstekning av baconet.
+- Äpple och kanel (variant från branch).
+### Motivering
+MINOR-höjning då nya ingredienser och instruktioner lades till utan att ändra grundkonceptet.
+
+## [1.0.0] - 2026-03-22
+### Added
+- Grundrecept på pannkaka med tärnad bacon.
+### Motivering
+MAJOR-version för första körbara/ätbara versionen av projektet.
