@@ -1,0 +1,14 @@
+STEG 6 - ÅNGRA TIDIGARE FÖRÄNDRING
+Jag använde 'git revert f7cf9c5' för att ta bort serveringsförslaget (lingonsylten & grädden). 
+En konflikt uppstod eftersom jag lagt till ingredienser (äpple/kanel) på rader 
+efter sylten. Jag löste konflikten genom att manuellt redigera recept.md, 
+ta bort konfliktmarkörerna och radera sylten, men behålla äppel-varianten.
+
+Jag valde 'revert' istället för 'reset' för att bevara historiken och 
+visa att ändringen ägt rum men sedan dragits tillbaka på ett säkert sätt.
+
+STEG 7 - PATCH-FILER
+Skillnaden mellan 'git apply' och 'git am':
+- 'git apply' applicerar bara ändringarna lokalt i filerna.
+- 'git am' (Apply Mail) applicerar en patch och skapar automatiskt en commit. 
+Jag använde 'git format-patch' för att skapa en patch av min senaste ändring.

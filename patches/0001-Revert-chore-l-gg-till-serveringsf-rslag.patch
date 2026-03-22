@@ -1,0 +1,32 @@
+From 27883690de810953225e0362dd5b0e32b8e37881 Mon Sep 17 00:00:00 2001
+From: amadeus <amasve010415@student.jenseneducation.se>
+Date: Sun, 22 Mar 2026 22:49:35 +0100
+Subject: [PATCH] =?UTF-8?q?Revert=20"chore:=20l=C3=A4gg=20till=20servering?=
+ =?UTF-8?q?sf=C3=B6rslag"?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+This reverts commit f7cf9c5fceb536764bdb16af19c8b0019046acd3.
+---
+ recept.md | 5 +++--
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+diff --git a/recept.md b/recept.md
+index c7a887c..7061bd4 100644
+--- a/recept.md
++++ b/recept.md
+@@ -5,7 +5,8 @@
+ - 0.25 tsk salt
+ - 1 pkt tärnad bacon (140g)
+ 1. Stek baconet gyllenbrunt och knaprigt i pannan innan smeten hälls på.
+-2. Grädda mitt i ugnen på 225 grader i ca 20-25 minuter.
+-Server gärna med en klick lingonsylt & sprutgrädde.
++2. Grädda mitt i ugnen på 225 grader i ca 20-25 minuter.<
++
+ - 1 tärnat äpple
+ - 0.5 tsk kanel
++
+-- 
+2.43.0
+
